@@ -1,14 +1,22 @@
 {
-  "name": "npm-demo-pkg",
+  "name": "npm-demo-pkg-by-najathi",
   "version": "1.0.0",
-  "description": "A demo packge",
+  "description": "A demo package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/najathi/demo-npm.git"
   },
   "keywords": [
     "demo"
   ],
   "author": "Najathi <najathi777@gmail.com> <http://najathi.netlify.com/dist>",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/najathi/demo-npm/issues"
+  },
+  "homepage": "https://github.com/najathi/demo-npm#readme"
 }
