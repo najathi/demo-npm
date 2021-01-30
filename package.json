@@ -1,0 +1,14 @@
+{
+  "name": "npm-demo-pkg",
+  "version": "1.0.0",
+  "description": "A demo packge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Najathi <najathi777@gmail.com> <http://najathi.netlify.com/dist>",
+  "license": "ISC"
+}
