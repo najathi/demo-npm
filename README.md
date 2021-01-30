@@ -8,6 +8,8 @@ Get perfect shadows every time for the non-designer
 
 `npm i npm-demo-pkg-by-najathi --save`
 
+Then..
+
 ```
 const log = require('npm-demo-pkg-by-najathi');
 
